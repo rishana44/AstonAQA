@@ -4,20 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9b42b8-f4a6-40d3-92ae-875b577f87c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="dc9b42b8-f4a6-40d3-92ae-875b577f87c8" name="Changes" comment="Lesson_12_Test_NG">
+      <change beforePath="$PROJECT_DIR$/Les_12_TestNG/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Les_12_TestNG/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Les_12_TestNG/src/main/java/org/example/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Les_12_TestNG/src/main/java/org/example/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Les_12_TestNG/src/test/java/FactorialTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Les_12_TestNG/src/test/java/FactorialTestNG.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Lesson_11_gradle">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lesson_11_gradle" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Les12_Testng" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bgEAgVIxDk7WWqMHVIaoF60z8F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,13 +62,54 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.AstonAQA [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "TestNG.FactorialTestNG.executor": "Run",
+    "git-widget-placeholder": "Lesson12__TestnG",
+    "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/AstonAQA/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/AstonAQA/Les_12_TestNG/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="AstonAQA [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.AstonAQA [test]" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,17 +119,28 @@
       <option name="presentableId" value="Default" />
       <updated>1706628181965</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson_11_gradle">
+      <option name="closed" value="true" />
+      <created>1706632682811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706632682811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson_12_Test_NG">
+      <option name="closed" value="true" />
+      <created>1706635510066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706635510066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_11_gradle" />
+    <MESSAGE value="Lesson_12_Test_NG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_12_Test_NG" />
   </component>
 </project>
