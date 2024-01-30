@@ -10,7 +10,6 @@ public class Factorial {
         }
         return result;
     }
-
     public static byte[] factorial(int i) {
     }
 }

@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9b42b8-f4a6-40d3-92ae-875b577f87c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Les_12_TestNG/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Les_12_TestNG/src/main/java/org/example/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Les_12_TestNG/src/test/java/FactorialTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="dc9b42b8-f4a6-40d3-92ae-875b577f87c8" name="Changes" comment="Lesson_12_Test_NG">
+      <change beforePath="$PROJECT_DIR$/Les_12_TestNG/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Les_12_TestNG/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Les_12_TestNG/src/main/java/org/example/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Les_12_TestNG/src/main/java/org/example/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Les_12_TestNG/src/test/java/FactorialTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/Les_12_TestNG/src/test/java/FactorialTestNG.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +66,6 @@
     "Maven.AstonAQA [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.FactorialTestNG.executor": "Run",
     "git-widget-placeholder": "Lesson12__TestnG",
     "jdk.selected.JAVA_MODULE": "11",
@@ -131,11 +127,20 @@
       <option name="project" value="LOCAL" />
       <updated>1706632682811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson_12_Test_NG">
+      <option name="closed" value="true" />
+      <created>1706635510066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706635510066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson_11_gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson_11_gradle" />
+    <MESSAGE value="Lesson_12_Test_NG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_12_Test_NG" />
   </component>
 </project>
