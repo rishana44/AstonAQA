@@ -89,7 +89,7 @@ public class RestAssuredPostmanTests {
         assertEquals("gzip, deflate, br", response.jsonPath().getString("headers.accept-encoding"));
         assertEquals("https://postman-echo.com/post", response.jsonPath().getString("url"));
 
-//        assertTrue(response.getHeader("x-amzn-trace-id").contains("Root=1-63e0c942-584c7dab4a1c52d34d581b03"));
+//      assertTrue(response.getHeader("x-amzn-trace-id").contains("Root=1-63e0c942-584c7dab4a1c52d34d581b03"));
         String traceIdHeader = response.getHeader("x-amzn-trace-id");
         if (traceIdHeader != null) {
             assertTrue(traceIdHeader.contains("Root=1-63e0c942-584c7dab4a1c52d34d581b03"));

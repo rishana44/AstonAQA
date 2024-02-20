@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc9b42b8-f4a6-40d3-92ae-875b577f87c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson_16/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="dc9b42b8-f4a6-40d3-92ae-875b577f87c8" name="Changes" comment="Lesson_16_Postman">
+      <change beforePath="$PROJECT_DIR$/Lesson_16_Postman/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_16_Postman/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_16_Postman/src/test/java/RestAssuredPostmanTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_16_Postman/src/test/java/RestAssuredPostmanTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,7 +44,10 @@
     "git-widget-placeholder": "Lesson__16",
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/AstonAQA/Lesson_16/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/HP/IdeaProjects/AstonAQA/Lesson_16_Postman/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +59,20 @@
       <option name="presentableId" value="Default" />
       <updated>1706628181965</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson_16_Postman">
+      <option name="closed" value="true" />
+      <created>1708443571852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708443571852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_16_Postman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_16_Postman" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -63,6 +86,11 @@
           <url>file://$PROJECT_DIR$/Lesson_16/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lesson_16_Postman/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
