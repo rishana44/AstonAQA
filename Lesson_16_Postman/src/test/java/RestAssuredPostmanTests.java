@@ -72,7 +72,6 @@ public class RestAssuredPostmanTests {
                 .log().all()
                 .post("/post");
 
-
         assertEquals(200, response.getStatusCode());
 
         assertEquals("bar1", response.jsonPath().getString("form.foo1"));
